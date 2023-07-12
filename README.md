@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:
-    <img width="60" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
+    <img width="40" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
 </h3>
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
