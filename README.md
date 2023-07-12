@@ -12,7 +12,9 @@
 
 - ⚡ Fun fact **I enjoy playing basketball🏀 and working out at the gym👟**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 
+    <img width="20" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" />
+</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fcarvelli" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fcarvelli" height="30" width="40" />
