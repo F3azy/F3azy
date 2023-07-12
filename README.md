@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-<h1 align="center">Hello World <img width="60" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" />, I'm Francesco</h1>
+<h1 align="center">Hello World <img width="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" />, I'm Francesco</h1>
 <h3 align="center">A passionate Front-end developer from Poland and hopefully in the future a FullStack developer.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
@@ -12,9 +12,10 @@
 
 - ⚡ Fun fact **I enjoy playing basketball🏀 and working out at the gym👟**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+    <img width="60" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" />
+</h3>
 <p align="left">
-<img width="60" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" />
 <a href="https://linkedin.com/in/fcarvelli" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fcarvelli" height="30" width="40" />
 </a>
