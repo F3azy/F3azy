@@ -84,8 +84,3 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f3azy&show_icons=true&theme=tokyonight&title_color=ff2e2e&text_color=7d7d7d&bg_color=1c1c1c&locale=en&layout=compact" alt="f3azy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f3azy&show_icons=true&theme=tokyonight&title_color=ff2e2e&text_color=7d7d7d&bg_color=1c1c1c&locale=en" alt="f3azy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f3azy&theme=dark" alt="f3azy" /></p>
