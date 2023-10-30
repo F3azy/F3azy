@@ -17,10 +17,10 @@
 </h3>
 <p align="left">
     <a href="https://linkedin.com/in/fcarvelli" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/fcarvelli" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/fcarvelli" width="40"  height="30" />
     </a>
     <a href="https://www.fcarvelli.com" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/F3azy/portfolio/85af628ad27f6f85b0b85a3b9486e991b5518aaf/public/logo.svg" alt="fcarvelli" height="40" />
+        <img align="center" src="https://raw.githubusercontent.com/F3azy/portfolio/85af628ad27f6f85b0b85a3b9486e991b5518aaf/public/logo.svg" alt="fcarvelli" height="30"  width="40" />
     </a>
     <a href="mailto:fcarvelli.work@gmail.com" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/timche/gmail-desktop/b7f44b50b84e0e80013b6821f63af614e58fbd29/media/icon.svg" alt="fcarvelli" height="40" />
