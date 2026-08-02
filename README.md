@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Write Mentor](https://github.com/F3azy/WriteMentor)
 
-- 🌱 I’m currently improving in **front-end development💻**
+<!-- - 🌱 I’m currently improving in **front-end development💻** -->
 
 - 📫 How to reach me **fcarvelli.work@gmail.com**
 
