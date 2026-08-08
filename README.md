@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
 
-- 🔭 I’m currently working on [Write Mentor](https://github.com/F3azy/WriteMentor)
+- 🔭 I’m currently working on [Aether](https://github.com/F3azy/Aether)
 
 <!-- - 🌱 I’m currently improving in **front-end development💻** -->
 
